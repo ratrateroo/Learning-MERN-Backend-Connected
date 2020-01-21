@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "ratrateroo",
+        "DB_PASSWORD" : "ultrapassword",
+        "DB_NAME": "mern",
+        "JWT_KEY": "secretkey"
+    }
+}
